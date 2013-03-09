@@ -1,0 +1,37 @@
+dependencies: \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVDevice.m \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDV.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVAvailability.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVPlugin.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVPluginResult.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/NSMutableArray+QueueAdditions.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVCommandDelegate.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVInvokedUrlCommand.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVViewController.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVWhitelist.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVScreenOrientationDelegate.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVURLProtocol.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVAccelerometer.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVBattery.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVCamera.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVCapture.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVFile.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVConnection.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVReachability.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVContact.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVContacts.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVDebug.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVDebugConsole.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVDevice.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVFileTransfer.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVLocation.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVNotification.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVSound.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVSplashScreen.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVLocalStorage.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVInAppBrowser.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/NSArray+Comparisons.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/NSData+Base64.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/NSDictionary+Extensions.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/UIDevice+Extensions.h \
+  /Volumes/Data/Users/fatrix/dev/phonegap/projects/phonegap-test/CordovaLib/Classes/CDVJSON.h
